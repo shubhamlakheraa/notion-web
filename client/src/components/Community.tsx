@@ -7,7 +7,6 @@ import slide3 from "../assets/community-slide-03.png";
 import slide4 from "../assets/community-slide-04.png";
 import deborah from "../assets/twitter-avatar-deborah.png";
 import andre from "../assets/twitter-avatar-andre.png";
-import oliver from "../assets/twitter-avatar-oliver.png";
 import { Swiper, SwiperSlide } from "swiper/react";
 import SwiperCore from "swiper/core";
 import { Navigation, Autoplay, Pagination, Virtual } from "swiper/modules";

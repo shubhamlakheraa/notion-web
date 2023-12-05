@@ -1,5 +1,4 @@
 import notionLogo from "../assets/notion-logo.png";
-import arrowUp from "../assets/arrow-up.png";
 import arrowDown from "../assets/arrow-down.png";
 
 const Navbar = () => {

@@ -10,7 +10,6 @@ import createLabel from "../assets/customize-info.webp";
 import buildPage from "../assets/build-any-page-communicate-any-idea.webp";
 import visible from "../assets/visibility.png";
 import art from "../assets/paint.png";
-import metalab from "../assets/metalab.webp";
 import openquote from "../assets/quote.png";
 import closequote from "../assets/double-quotes.png";
 import fire from "../assets/match-group.webp";
